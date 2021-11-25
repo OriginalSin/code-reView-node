@@ -24,6 +24,7 @@
 
 ** package.json **
 * Необходимо обновить до последних версий все пакеты из [dependencies](https://github.com/OriginalSin/code-reView-node/blob/main/package.json#L12)
+
 Например:
   "dependencies": {
     "express": "^4.17.1",
