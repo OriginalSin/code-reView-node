@@ -22,5 +22,12 @@
 
 ## Замечания ##
 
-**package.json**
-* Необходимо обновить до последних версий все пакеты из dependencies
+** package.json **
+* Необходимо обновить до последних версий все пакеты из [dependencies](https://github.com/OriginalSin/code-reView-node/blob/main/package.json#L12)
+Например:
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "md5": "^2.3.0",
+    "sqlite3": "^5.0.2"
+  }
