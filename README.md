@@ -23,6 +23,7 @@
 ## Замечания ##
 
 ** package.json **
+
 * Необходимо обновить до последних версий все пакеты из [dependencies](https://github.com/OriginalSin/code-reView-node/blob/main/package.json#L12)
 
 Например:
@@ -32,3 +33,8 @@
     "md5": "^2.3.0",
     "sqlite3": "^5.0.2"
   }
+
+
+** .gitignore **
+
+* В .gitignore можно добавить db.sqlite он создается при инсталяции приложения
